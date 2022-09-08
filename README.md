@@ -1,3 +1,3 @@
 # rsschool-cv
 
-# https://kodi2d.github.io/rsschool-cv/cv
+# https://kodi2d.github.io/rsschool-cv/
